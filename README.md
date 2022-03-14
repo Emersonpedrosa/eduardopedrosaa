@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Eduardo Pedrosa 👋
 
-- 🔭 Hoje estou a procura de trabalho na área de analista de programação, de dados ou outros na área
+- 🔭 Hoje estou a procura de trabalho na área de BI, Análise de dados e programação.
 - 🌱 Estudando Python, HTML, CSS, Linguagem R, SQL server, Oracle, MySQL, ETL, Power BI
 - 📫 Contate-me no e-mail: eduardoppsilva@outlook.com
 - 😄 Pronome: ele/dele
